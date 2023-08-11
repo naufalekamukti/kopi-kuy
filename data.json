@@ -47,8 +47,8 @@
             "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
         },
         {
-            "foto": "images/produk/product_latte.jpg",
-            "nama": "Latte",
+            "foto": "https://s3-publishing-cmn-svc-prd.s3.ap-southeast-1.amazonaws.com/article/ZXsmTzmyb2NUqS_GhCSPe/original/053025100_1483450876-ProjectImages_Fakta-di-Balik-Minuman-Cokelat-Panas.jpg",
+            "nama": "Cokelat Panas",
             "size": "150 Gram",
             "harga": "150.000",
             "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
