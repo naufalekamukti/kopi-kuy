@@ -57,13 +57,13 @@ dengan memberi nama family, maka kita mendaftarkan font tersebut ke dalam websit
 }
 
 body {
-      background-image: url(images/background/bgkopi.png);
-            background-size: 20%;
    /* 
    mendaftarkan semua teks pada body menjadi family Poppins 
    kenapa pada body? karena elemen body membungkus semua elemen dari nav section sampai footer
    */
    font-family: 'Poppins';
+    background-image: url(images/background/bgkopi.png);
+            background-size: 20%;
 }
 
 /*
